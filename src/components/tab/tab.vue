@@ -19,16 +19,16 @@
             return{
                 tabs:[
                     {
-                        name:'推荐',
-                        path:'/recommand'
+                        name:'商城',
+                        path:'/shop'
                     },
                     {
-                        name:'歌手',
-                        path:'/singer'
+                        name:'问诊',
+                        path:'/inquiry'
                     },
                     {
-                        name:'排行',
-                        path:'/top-list'
+                        name:'健康',
+                        path:'/healthy'
                     },
                     {
                         name:'搜索',

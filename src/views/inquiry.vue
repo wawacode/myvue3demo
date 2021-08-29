@@ -1,11 +1,11 @@
 <template>
-    <div class="singer">
-        歌手页面
+    <div class="inquiry">
+        问诊页面
     </div>
 </template>
 <script>
     export default{
-        name:"singer"
+        name:"inquiry"
     }
 </script>
 <style lang="scss" scoped>

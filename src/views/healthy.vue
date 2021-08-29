@@ -1,11 +1,11 @@
 <template>
-    <div class="top-list">
-        榜单页面
+    <div class="healthy">
+        健康页面
     </div>
 </template>
 <script>
     export default{
-        name:"top-list"
+        name:"healthy"
     }
 </script>
 <style lang="scss" scoped>
