@@ -6,7 +6,7 @@
 import Tab from '@/components/tab/tab'
 
 export default {
-  components:{
+  components: {
     Tab
   }
 }
@@ -15,4 +15,3 @@ export default {
 <style lang="scss" scoped>
 
 </style>
-

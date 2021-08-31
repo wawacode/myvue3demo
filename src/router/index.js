@@ -5,6 +5,10 @@ import Healthy from '@/views/healthy'
 import Search from '@/views/search'
 const routes = [
   {
+    path: '/',
+    redirect: '/shop'
+  },
+  {
     path: '/shop',
     component: Shop
   },
